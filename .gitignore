@@ -1,0 +1,9 @@
+.build/
+build/
+.DS_Store
+*.wav
+test-audio/
+# Настоящие брифы с фактами — личные, в git только пример.
+briefs/*
+!briefs/product.md
+.env

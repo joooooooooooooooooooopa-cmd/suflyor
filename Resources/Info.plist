@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Суфлёр</string>
+	<key>CFBundleExecutable</key>
+	<string>Suflyor</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.danila-builds.suflyor</string>
+	<key>CFBundleName</key>
+	<string>Suflyor</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAudioCaptureUsageDescription</key>
+	<string>Суфлёр слушает звук созвона, чтобы расшифровать речь собеседников локально.</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Суфлёр берёт тему созвона из текущей встречи в календаре (название и участники), только чтение. Включается флагом в меню панели.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Суфлёр расшифровывает твою речь локально на этом Mac. Звук никуда не отправляется и не сохраняется.</string>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>Суфлёр слушает звук созвона (системный звук), чтобы расшифровать речь собеседников локально. Изображение экрана не используется.</string>
+</dict>
+</plist>
